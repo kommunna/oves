@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/oves/static/css/main.8202d396.css",
-    "main.js": "/oves/static/js/main.6b0fe2e4.js",
+    "main.js": "/oves/static/js/main.57434385.js",
     "index.html": "/oves/index.html",
     "main.8202d396.css.map": "/oves/static/css/main.8202d396.css.map",
-    "main.6b0fe2e4.js.map": "/oves/static/js/main.6b0fe2e4.js.map"
+    "main.57434385.js.map": "/oves/static/js/main.57434385.js.map"
   },
   "entrypoints": [
     "static/css/main.8202d396.css",
-    "static/js/main.6b0fe2e4.js"
+    "static/js/main.57434385.js"
   ]
 }
